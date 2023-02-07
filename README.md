@@ -1,3 +1,3 @@
 # SistemaOs
  
- Cadastro de Ordem de serviços, pessos(clientes, fornecedores e funcionários).
+ Cadastro de Ordem de serviços e pessoas(clientes, fornecedores e funcionários).
